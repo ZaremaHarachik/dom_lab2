@@ -1,3 +1,16 @@
-.h1 {
+h1 {
   color: deeppink;
+}
+
+button {
+  background-color: purple;
+  border: none;
+  color: white;
+  padding: 20px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 5px 3px;
+  cursor: pointer;
 }
